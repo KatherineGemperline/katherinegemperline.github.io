@@ -1,5 +1,6 @@
 # "Thoughts on Chapter 2, *The Pragmatic Programmer*"
 February 14, 2019
+
   While reading *The Pragmatic Programmer*, Chapter 2, I realized that I don't fully understand the concept of metadata, and how it is different from just data. While I already understood the idea that we shouldn't replicate code, I was interested in the notion that sometimes you have to duplicate code in a program. I was also intrigued by Orthogonality as it relates to teams that work together. I understand how coding and orthonagals interact, as you add new code you have to make sure it doens't affect the other code you've already written more than what you need to save yourself from having problems. I was interested though in the example with teams. It was a great way to fully understand what the authors were talking about in regards to coding.
 
 
