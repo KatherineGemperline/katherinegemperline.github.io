@@ -1,6 +1,12 @@
 # "Thoughts on Chapter 2, *The Pragmatic Programmer*"
 February 14, 2019
 
+While reading *The Pragmatic Programmer*, Chapter 7, I paused at the first sentence because yes, that is exactly how I feel in life. Though, what they said is exactly what I tend to do with projects: procrastinate. But starting too soon? That's a problem? Yeah, if you code before you know what you're coding, then yeah, that's a problem. They should have worded that differently. I never thought to use a project glossary before, but I like the idea. Especially, when talking with clients becuase they are touchy about those sort of things.
+
+
+# "Thoughts on Chapter 2, *The Pragmatic Programmer*"
+February 14, 2019
+
   While reading *The Pragmatic Programmer*, Chapter 2, I realized that I don't fully understand the concept of metadata, and how it is different from just data. While I already understood the idea that we shouldn't replicate code, I was interested in the notion that sometimes you have to duplicate code in a program. I was also intrigued by Orthogonality as it relates to teams that work together. I understand how coding and orthonagals interact, as you add new code you have to make sure it doens't affect the other code you've already written more than what you need to save yourself from having problems. I was interested though in the example with teams. It was a great way to fully understand what the authors were talking about in regards to coding.
 
 
