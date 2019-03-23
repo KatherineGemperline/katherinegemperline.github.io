@@ -1,5 +1,5 @@
-# "Thoughts on Chapter 2, *The Pragmatic Programmer*"
-February 14, 2019
+# "Thoughts on Chapter 7, *The Pragmatic Programmer*"
+March 22, 2019
 
 While reading *The Pragmatic Programmer*, Chapter 7, I paused at the first sentence because yes, that is exactly how I feel in life. Though, what they said is exactly what I tend to do with projects: procrastinate. But starting too soon? That's a problem? Yeah, if you code before you know what you're coding, then yeah, that's a problem. They should have worded that differently. I never thought to use a project glossary before, but I like the idea. Especially, when talking with clients becuase they are touchy about those sort of things.
 
