@@ -1,11 +1,16 @@
+# "Thoughts on 12 Factor, *12factor.net*"
+April 1, 2019
+
+I read about the 12 different factors the website outlined to make good codes. One thing I was slightly confused about is the difference between classes and codebases. Basically, can oen codebase still have multiple classes? They talked about inputing libraries which is what confused me.
+
+Another thing I didn't quite understand was all their references to Rails and Ruby as I've never used, or even heard of, them. But I really liked factor IV, it really helped me understand the term "backing services", but I also liked that you can change databases without having to change code. It saves to much time, I imagine.
+
+These are important things to keep in mind when creating our project, as we have different poeple working seperately on the project, which can be difficult if the code is all over the place, in different repos, and difficult to read.
+
 # "Thoughts on Chapter 7, *The Pragmatic Programmer*"
 March 22, 2019
 
 While reading *The Pragmatic Programmer*, Chapter 7, I paused at the first sentence because yes, that is exactly how I feel in life. Though, what they said is exactly what I tend to do with projects: procrastinate. But starting too soon? That's a problem? Yeah, if you code before you know what you're coding, then yeah, that's a problem. They should have worded that differently. I never thought to use a project glossary before, but I like the idea. Especially, when talking with clients becuase they are touchy about those sort of things.
-
-
-# "Thoughts on Chapter 4, *The Pragmatic Programmer*"
-March 22, 2019 
 
 
 # "Thoughts on Chapter 2, *The Pragmatic Programmer*"
